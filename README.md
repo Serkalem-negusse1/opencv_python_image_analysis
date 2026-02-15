@@ -8,16 +8,6 @@ This repository contains a Python implementation of basic image processing techn
 - Canny edge detection
 - Saving processed images
 
-
-**Folder Structure**
-opencv_python_image_analysis/
-│
-├── dataset/ # Original images (e.g., butterfly.jpg)
-├── results/ # Processed images (grayscale, edges)
-├── test_butterfly.py # Python script for image analysis
-└── README.md # Project documentation
-
-
 ## Installation
 
 **Clone the repository**:
