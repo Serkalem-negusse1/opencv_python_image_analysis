@@ -10,7 +10,7 @@ if not os.path.exists(image_path):
     print("Error: Image not found at", image_path)
     exit()
 
-# Create results folder if it doesn't exist
+# Create results folder if it doesn't exist.
 os.makedirs(save_dir, exist_ok=True)
 
 # Load image
